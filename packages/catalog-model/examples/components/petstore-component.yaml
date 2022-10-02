@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   annotations:
-    backstage.io/kubernetes-id: backstage
+    backstage.io/kubernetes-id: petstore
     backstage.io/kubernetes-namespace: backstage
   name: petstore
   # This is an extra long description
